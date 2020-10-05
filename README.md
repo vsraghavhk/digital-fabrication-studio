@@ -1,2 +1,2 @@
 # digital-fabrication-studio
-Assignment codes for TAMUDigital Fabrication Studio
+Assignment codes for TAMU CSCE 689 - Digital Fabrication Studio by Jeeeun Kim
